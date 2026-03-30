@@ -1,10 +1,11 @@
 # keygen-music
 
-Keygen and demoscene music
+KEYGENMUSiC ripped for here and there;
 
-### License
+## Important
 
-This repository is not licensed. Be nice, do as you please.
+* **No actual keygen is presented in this repository,** these are all ripped music from them.
+* **Please contact the composer for music copyright info.**
 
 ### Contributing
 
