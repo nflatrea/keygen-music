@@ -1,10 +1,10 @@
 # keygen-music
 
-KEYGENMUSiC ripped for here and there;
+KEYGENMUSiC ripped from here and there;
 
 ## Important
 
-* **No actual keygen is presented in this repository,** these are all ripped music from them.
+* **No actual keygen is presented in this repository,** these are all ripped music.
 * **Please contact the composer for music copyright info.**
 
 ### Contributing
